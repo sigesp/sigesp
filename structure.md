@@ -90,29 +90,29 @@
         8.	Listados de personal Por Nomina.
         Listados Especiales tales como Relación de Caja de Ahorro
 
-9. Bienes nacionales, estatales y municipales
+9. **Bienes nacionales, estatales y municipales**
 
   El módulo de activos fijos fue diseñado para el registro de los bienes muebles e inmuebles, tanto de la Republica, como de los estados y municipios. Además, permite el registro de los activos fijos de los entes descentralizados con o sin fines empresariales, y calcula la depreciación de los mismos a través de los diferentes métodos.
 
-10. Registro y seguimiento de obras y contratos
+10. **Registro y seguimiento de obras y contratos**
 
   Este módulo fue diseñado y desarrollado para el registro de la ejecución, control y seguimiento de obras ejecutadas directamente o por contratos, con énfasis en los aspectos financieros y se integra con los módulos de: contabilidad presupuestaria de gastos, contabilidad financiera, caja y bancos y órdenes de pago.
 
-11. Proveedores, contratistas y beneficiarios
+11. **Proveedores, contratistas y beneficiarios**
 
   Este módulo permite registrar vía Internet, los proveedores y contratistas que trabajan para el Estado, agilizando tanto el registro de los mismos, como la actualización de sus datos. Además, verifica y valida el RIF con el portal del SENIAT.
 
 
-12. Planificación estratégica y formulación de presupuestos
+12. **Planificación estratégica y formulación de presupuestos**
 
   Este módulo está desarrollado, por una parte, atendiendo a la matriz del Marco Lógico y demás orientaciones dadas por el Ministerio de Planificación y Desarrollo en cuanto a los niveles programáticos del Plan Operativo Anual y, por la otra, a las orientaciones emanadas en las normas e instructivos de la ONAPRE, en cuanto a formulación de presupuestos se refiere.
 
   Pero, lo más importante del módulo es la vinculación del plan con el presupuesto en las instituciones, así como la manera rápida y precisa como se proyectan los estados financieros planteados en los instructivos; además, su vinculación con el sistema de registro de la ejecución.
 
-13. Cálculo, registro y control de viáticos
+13. **Cálculo, registro y control de viáticos**
 
   Este módulo permite el cálculo, registro y control de viáticos y está integrado con los módulos de ordenación de pagos, Tesorería, contabilidad presupuestaria y contabilidad patrimonial.
 
-14. Indicadores de Gestión
+14. **Indicadores de Gestión**
 
   Este módulo permite programar y registrar todas las variables de medición y construir los indicadores físicos y financieros de gestión, tal como lo exigen las leyes y reglamentos vigentes.
